@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request
-import spacy
 import os
 import re
 import random
@@ -9,8 +8,6 @@ from nltk.util import ngrams
 from functools import reduce
 from flask import jsonify
 import math
-
-nlp = spacy.load('en')
 app = Flask(__name__)
 
 MAX_N = 5
