@@ -1,5 +1,5 @@
 # thefarawaysummerevenings
-Uses a genetic algorithm to seek out an n-gram approximation of John Ashbery's "Whatever It Is, Wherever You Are" - http://thefaraway.kavid.xyz/
+Uses a genetic algorithm to seek out an n-gram approximation of John Ashbery's "Whatever It Is, Wherever You Are" - https://titleduntitled.name/thefaraway/
 
 Installing the dependencies and running app.py will start the flask server. Sorry if it doesn't work. I'm actually really bad at python, and web development.
 
